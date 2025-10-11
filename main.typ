@@ -2,12 +2,12 @@
 
 #show: template.with(
   // Metadata
-  title: "Jugendordnung DLRG St. Leon e.V.",
+  title: "Jugendordnung der DLRG St. Leon e.V.",
   title-short: "Jugendordung",
   // abbreviation: "",
   resolution: "3. Beschluss des Vorstands vom 24.01.2024",
   in-effect: "24.01.2024",
-  draft: false,
+  draft: true,
   // Template
   logo: image("Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
 )

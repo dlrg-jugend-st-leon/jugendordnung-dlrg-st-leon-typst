@@ -34,40 +34,19 @@
     // Actually show the heading
     show heading: set text(style: "normal", weight: "bold")
     heading(level: depth, numbering: none, ..rest, it)
+    v(5pt)
   }
 )
 
-#let make-header(logo, title) = {
-  grid(
-    columns: (auto, auto, auto),
-    rows: 2cm,
-    align: horizon,
-    grid.cell(
-      box(logo),
-    ),
-    grid.cell(
-      h(1fr),
-    ),
-    grid.cell(
-      box(text(title, fill: blue, size: 20pt)),
-    ),
-  )
-  line(length: 100%, stroke: 2pt + blue)
-  v(5pt)
-}
 
 /// Manually create a section. Useful when unsupported characters are used in the heading.
 /// Usage: `#section[§ 3][Administrator*innen]`
 #let section = (number, it, ..rest) => unnumbered(
   {
-    number + "\n" + it
+    number + " " + it
   },
   ..rest,
 )
-
-/// Division prefixes for different languages.
-#let division-prefixes-de = ("Teil", "Kapitel", "Abschnitt", "Unterabschnitt")
-#let division-prefixes-en = ("Part", "Chapter", "Division", "Subdivision")
 
 /// Initialize a delegis document.
 #let template = (
@@ -83,22 +62,12 @@
   size: 14pt,
   font: "Mulish",
   lang: "de",
-  paper: "a5",
-  division-prefixes: none, // use language-specific prefixes by default
+  paper: "a4",
   str-draft: "Entwurf",
   str-intro: (resolution, in-effect) => [Mit Beschluss (#resolution) tritt zum #in-effect in Kraft:],
   // Content
   body,
 ) => {
-  /// Language-specific division prefixes
-  let division-prefixes = if division-prefixes != none {
-    division-prefixes
-  } else if lang == "en" {
-    division-prefixes-en
-  } else {
-    division-prefixes-de // default to German
-  }
-
   /// Metadata
   let full-title = if abbreviation != none {
     title + " (" + abbreviation + ")"
@@ -111,25 +80,30 @@
     description: str-intro(resolution, in-effect) + " " + full-title,
   )
 
-  /// General Formatting
-  let bg = if draft {
-    rotate(45deg, text(100pt, fill: luma(85%), font: font, str-draft))
-  }
 
   set page(
     paper: "a4",
     numbering: "1 / 1",
-    background: bg,
-    margin: (top: 0.5cm, bottom: 1.1in, x: 1.6cm),
-    // header: [
-    //   #v(2pt)
-    //   #box(logo)
-    //   #h(1fr)
-    //   #text(size: 20pt, "Jugendordnung")
-    //   #v(2pt)
-    //   #align(center, line(length: 100%, stroke: 2pt + rgb("#013157")))
-    //   #v(5pt)
-    // ],
+    margin: (top: 5cm, bottom: 1.1in, x: 1.6cm),
+    header: [
+      #grid(
+        columns: (auto, auto, auto),
+        rows: 2cm,
+        align: horizon,
+        grid.cell(
+          box(logo),
+        ),
+        grid.cell(
+          h(1fr),
+        ),
+        grid.cell(
+          box(text(title-short, fill: blue, size: 20pt)),
+        ),
+      )
+      #v(2pt)
+      #line(length: 100%, stroke: 2pt + blue)
+      #v(5pt)
+    ],
   )
   set text(hyphenate: true, lang: lang, size: size, font: font)
 
@@ -141,41 +115,12 @@
   }
 
   /// Heading Formatting
-  set heading(numbering: (..nums) => {
-    // Handbuch der Rechtsförmlichkeit, Rn. 379 f.
-    // After the final named level, use "X.X.X" for the numbering using the final prefix
-    nums = nums.pos()
+  set heading(numbering: "I.")
+  show heading: set align(left)
+  show heading: set text(fill: blue, font: "Josefin Sans", weight: "extrabold")
 
-    let level = nums.len() // level of the heading
-    let number = nums.slice(
-      calc.min(
-        division-prefixes.len(),
-        level,
-      )
-        - 1,
-    )
-
-    let prefix = division-prefixes.at(
-      calc.min(
-        level - 1,
-        division-prefixes.len() - 1,
-      ),
-    )
-
-    let str-number = numbering("1.1", ..number)
-
-    [
-      #prefix #str-number:
-    ]
-  })
-  show heading: set align(center)
-  show heading: set text(font: "Josefin Sans", size: size, weight: "regular")
-
-  show heading.where(level: 1): set text(style: "italic")
-  show heading.where(level: 2): set text(style: "italic")
-  show heading.where(level: 3): set text(style: "italic")
-  show heading.where(level: 4): set text(style: "italic")
-  show heading.where(level: 5): set text(style: "italic")
+  show heading.where(level: 1): set text(size: 18pt)
+  show heading.where(level: 2): set text(size: size)
 
   // Enumeration numbering
   // 1. -> a) -> aa) -(unofficial)-> (1) -> i. -> i.i. -> ...
@@ -227,7 +172,6 @@
   page(
     numbering: none,
     {
-      make-header(logo, title-short)
       v(1fr)
 
       set par(spacing: .6em)
@@ -239,8 +183,7 @@
       }
 
       par(text(2em, strong(full-title)), leading: 0.6em)
-
-      v(3cm)
+      v(1fr)
     },
   )
 
