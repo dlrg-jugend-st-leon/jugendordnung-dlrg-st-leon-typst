@@ -59,7 +59,7 @@
   draft: false,
   logo: none,
   // Overrides
-  size: 14pt,
+  size: 12pt,
   font: "Mulish",
   lang: "de",
   paper: "a4",
@@ -84,25 +84,44 @@
   set page(
     paper: "a4",
     numbering: "1 / 1",
-    margin: (top: 5cm, bottom: 1.1in, x: 1.6cm),
+    margin: (top: 4cm, bottom: 3cm, x: 1.6cm),
     header: [
       #grid(
-        columns: (auto, auto, auto),
-        rows: 2cm,
-        align: horizon,
-        grid.cell(
-          box(logo),
-        ),
-        grid.cell(
-          h(1fr),
-        ),
-        grid.cell(
-          box(text(title-short, fill: blue, size: 20pt)),
-        ),
+        columns: auto,
+        gutter: 10pt,
+        [#grid(
+          columns: (auto, auto, auto),
+          rows: 2cm,
+          align: horizon,
+          grid.cell(
+            box(logo),
+          ),
+          grid.cell(
+            h(1fr),
+          ),
+          grid.cell(
+            box(text(title-short, fill: blue, size: 18pt)),
+          ),
+        )],
+        [#line(length: 100%, stroke: 3pt + blue)],
       )
-      #v(2pt)
-      #line(length: 100%, stroke: 2pt + blue)
-      #v(5pt)
+
+
+    ],
+    footer: context [
+      #place(top + right, text(fill: blue, counter(page).display("1")))
+      #grid(
+        columns: auto,
+        gutter: 10pt,
+        [#image("welle-outline-saphir.svg", width: 100%)],
+        [#text(
+          fill: blue,
+          size: 12pt,
+          "DLRG-Jugend St. Leon | An der Autobahn 58 | 68789 St. Leon-Rot | jugend@st-leon.dlrg.de ",
+        )],
+      )
+
+
     ],
   )
   set text(hyphenate: true, lang: lang, size: size, font: font)
@@ -117,7 +136,7 @@
   /// Heading Formatting
   set heading(numbering: "I.")
   show heading: set align(left)
-  show heading: set text(fill: blue, font: "Josefin Sans", weight: "extrabold")
+  show heading: set text(fill: blue, font: "Josefin Sans", weight: "bold")
 
   show heading.where(level: 1): set text(size: 18pt)
   show heading.where(level: 2): set text(size: size)
@@ -168,24 +187,9 @@
     it
   }
 
-  /// Title Page
-  page(
-    numbering: none,
-    {
-      v(1fr)
+  //title
+  par(text(font: "Josefin Sans", 1.8em, fill: blue, strong(full-title)), leading: 0.6em)
 
-      set par(spacing: .6em)
-
-      if draft {
-        text[#str-draft:]
-      } else {
-        par(text(str-intro(resolution, in-effect)))
-      }
-
-      par(text(2em, strong(full-title)), leading: 0.6em)
-      v(1fr)
-    },
-  )
 
   // Metadata once again. Needs to be down here to have the page size set.
   // Can be used with `typst query`, e.g.:
