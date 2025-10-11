@@ -1,14 +1,15 @@
 #import "template.typ": *
 
-#show: delegis.with(
+#show: template.with(
   // Metadata
   title: "Jugendordnung DLRG St. Leon e.V.",
+  title-short: "Jugendordung",
   // abbreviation: "",
   resolution: "3. Beschluss des Vorstands vom 24.01.2024",
   in-effect: "24.01.2024",
   draft: false,
   // Template
-  logo: image("Jugendlogo-transparent.png", alt: "DLRG Jugend St. Leon"),
+  logo: image("Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
 )
 
 /// Usage
@@ -20,49 +21,59 @@
 //
 ///
 
-#unnumbered(level: 1, outlined: false)[Vorbemerkung]
-
-Fußnoten dienen als redaktionelle Anmerkungen oder Interpretationshilfen und sind nicht selbst Teil der Beschlussfassung.
-
 #v(2em)
 
 #outline()
 
-#unnumbered[Präambel]
 
-#lorem(30)
+= Grundsätze
 
-= Allgemeiner Teil
+§ 1 Name, Mitgliedschaft
 
-§ 1 Grundlegendes
+Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
+
+
+
+§ 2 Ziele, Aufgaben und Inhalte
+
+(1) Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
+
+(2) Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen der Jugendlichen.
+
+§ 3 Eigenständigkeit
+
+Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanziellen Mittel in eigener Verantwortung.
+
+§ 4 Wahlrecht
+
+(1) In den Gliederungen der DLRG-Jugend besitzen ihre Mitglieder im Alter von 10 bis 26 Jahren und die von ihnen gewählten Vertreter*innen das uneingeschränkte Recht zu wählen und abzustimmen. Das Recht gewählt zu werden kann von Mitgliedern der DLRG-Jugend ab 12 Jahren, für den/die Jugendleiter*in, den/die Ressortleiter*in Finanzen und den/die Ressortleiter*in Freizeiten ab 16 Jahren, wahrgenommen werden und ist nicht auf das Höchstalter von 26 Jahren beschränkt.
+
+(2)	Das Wahl- und Stimmrecht ist persönlich wahrzunehmen, eine Stimmabgabe durch die gesetzlichen Vertreter ist nicht möglich.
+
+(3) Wahlen können als Blockwahl durchgeführt werden, wenn niemand widerspricht.
+
+= Organe
+
+§ 5 Organe
+
+(1) Organe der DLRG-Jugend sind:
+#set enum(numbering: "a)", indent: 10pt)
+
++ Die Jugendversammlung
++ Der Jugendvorstand
+
+(2) Die Organe der DLRG-Jugend tagen grundsätzlich verbandsöffentlich.
+
+(3) Die Organe können auch ohne physische Anwesenheit am Versammlungsort als Online-Versammlung tagen. Für Wahlen und Abstimmungen muss dafür ein geeignetes Verfahren eingesetzt werden.
+
+§ 6 Jugendversammlung
+
 
 (1)
-#lorem(20)
+Die Jugendversammlung ist das höchste Organ der DLRG-Jugend.
 
 (2)
-#s~#lorem(10)
-#s~#lorem(10)
-#s~Das beinhaltet
-+ Listenelemente,
-+ weitere Listenelemente, wie zum Beispiel
-  + Kind-Listenelemente,
-  + weitere Kind-Listenelemente, sowie
-+ ein letztes Listenelement.
-
-§ 2 Bestimmungen
-
-#lorem(30)
-
-= Spezieller Teil
-
-§ 2a Ergänzende Bestimmungen
-
-(1)
-#lorem(5)
-
-(2)
-#s~#lorem(3)
-#s~#lorem(8)
+Stimmberechtigte Mitglieder sind:
 
 #section[§ 3][Administrator*innen]
 

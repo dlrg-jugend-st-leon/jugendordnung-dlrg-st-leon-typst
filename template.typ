@@ -6,6 +6,8 @@
 // sentence number substitution marker
 #let s = "XXXXXXSENTENCEXXXNUMBERXXXXXX"
 
+#let blue = rgb("#013157")
+
 /// Create an unmarkes section, such as a preamble.
 /// Usage: `#unnumbered[Preamble]`
 #let unnumbered = (it, ..rest) => context (
@@ -34,6 +36,26 @@
     heading(level: depth, numbering: none, ..rest, it)
   }
 )
+
+#let make-header(logo, title) = {
+  grid(
+    columns: (auto, auto, auto),
+    rows: 2cm,
+    align: horizon,
+    grid.cell(
+      box(logo),
+    ),
+    grid.cell(
+      h(1fr),
+    ),
+    grid.cell(
+      box(text(title, fill: blue, size: 20pt)),
+    ),
+  )
+  line(length: 100%, stroke: 2pt + blue)
+  v(5pt)
+}
+
 /// Manually create a section. Useful when unsupported characters are used in the heading.
 /// Usage: `#section[§ 3][Administrator*innen]`
 #let section = (number, it, ..rest) => unnumbered(
@@ -48,14 +70,14 @@
 #let division-prefixes-en = ("Part", "Chapter", "Division", "Subdivision")
 
 /// Initialize a delegis document.
-#let delegis = (
+#let template = (
   // Metadata
-  title: "Jugendordnung DLRG St. Leon e.V.",
+  title: none,
+  title-short: none,
   abbreviation: none,
   resolution: "3. Beschluss des Vorstands vom 24.01.2024",
   in-effect: "24.01.2024",
   draft: false,
-  // Template
   logo: none,
   // Overrides
   size: 14pt,
@@ -94,12 +116,21 @@
     rotate(45deg, text(100pt, fill: luma(85%), font: font, str-draft))
   }
 
-  set page(paper: paper, numbering: "1 / 1", background: bg, header: [
-    #align(top, box(image("Jugendlogo-transparent.png")))
-    #h(1fr)
-    #align(bottom + right, text("Jugendordnung"))
-    #align(center, line(length: 100%, stroke: 2pt + rgb("#013157")))
-  ])
+  set page(
+    paper: "a4",
+    numbering: "1 / 1",
+    background: bg,
+    margin: (top: 0.5cm, bottom: 1.1in, x: 1.6cm),
+    // header: [
+    //   #v(2pt)
+    //   #box(logo)
+    //   #h(1fr)
+    //   #text(size: 20pt, "Jugendordnung")
+    //   #v(2pt)
+    //   #align(center, line(length: 100%, stroke: 2pt + rgb("#013157")))
+    //   #v(5pt)
+    // ],
+  )
   set text(hyphenate: true, lang: lang, size: size, font: font)
 
   /// Clause Detection
@@ -196,7 +227,7 @@
   page(
     numbering: none,
     {
-      // place(top + right, block(width: 5cm, logo))
+      make-header(logo, title-short)
       v(1fr)
 
       set par(spacing: .6em)
