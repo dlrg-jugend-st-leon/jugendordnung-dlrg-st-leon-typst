@@ -177,7 +177,7 @@
   }
 
   //title
-  par(text(font: "Josefin Sans", 1.8em, fill: jugendBlau, strong(full-title)), leading: 0.6em)
+  par(text(font: "Josefin Sans", 1.8em, fill: jugendBlau, strong(title)), leading: 0.6em)
 
   // allow footnotes that don't conflict with sentence numbers
   set footnote(numbering: "[1]")
