@@ -1,12 +1,7 @@
-// Copyright (c) 2025 WüSpace e. V.
-//
-// This software is released under the MIT License.
-// https://opensource.org/licenses/MIT
-
 // sentence number substitution marker
 #let s = "XXXXXXSENTENCEXXXNUMBERXXXXXX"
 
-#let blue = rgb("#013157")
+#let jugendBlau = rgb("#013157")
 
 /// Create an unmarkes section, such as a preamble.
 /// Usage: `#unnumbered[Preamble]`
@@ -48,14 +43,11 @@
   ..rest,
 )
 
-/// Initialize a delegis document.
+/// Initialize document.
 #let template = (
-  // Metadata
   title: none,
   title-short: none,
   abbreviation: none,
-  resolution: "3. Beschluss des Vorstands vom 24.01.2024",
-  in-effect: "24.01.2024",
   draft: false,
   logo: none,
   // Overrides
@@ -63,27 +55,24 @@
   font: "Mulish",
   lang: "de",
   paper: "a4",
-  str-draft: "Entwurf",
-  str-intro: (resolution, in-effect) => [Mit Beschluss (#resolution) tritt zum #in-effect in Kraft:],
   // Content
   body,
 ) => {
   /// Metadata
-  let full-title = if abbreviation != none {
-    title + " (" + abbreviation + ")"
+  let full-title = if title-short != none {
+    title + " (" + title-short + ")"
   } else {
     title
   }
   set document(
     title: full-title,
-    keywords: (title, abbreviation, resolution, in-effect).filter(it => it != none),
-    description: str-intro(resolution, in-effect) + " " + full-title,
+    keywords: (title, title-short).filter(it => it != none),
+    description: full-title,
   )
 
 
   set page(
     paper: "a4",
-    numbering: "1 / 1",
     margin: (top: 4cm, bottom: 3cm, x: 1.6cm),
     header: [
       #grid(
@@ -100,22 +89,22 @@
             h(1fr),
           ),
           grid.cell(
-            box(text(title-short, fill: blue, size: 18pt)),
+            box(text(title-short, fill: jugendBlau, size: 18pt)),
           ),
         )],
-        [#line(length: 100%, stroke: 3pt + blue)],
+        [#line(length: 100%, stroke: 3pt + jugendBlau)],
       )
 
 
     ],
     footer: context [
-      #place(top + right, text(fill: blue, counter(page).display("1")))
+      #place(top + right, text(fill: jugendBlau, counter(page).display("1")))
       #grid(
         columns: auto,
         gutter: 10pt,
-        [#image("welle-outline-saphir.svg", width: 100%)],
+        [#image("resources/welle-outline-saphir.svg", width: 100%)],
         [#text(
-          fill: blue,
+          fill: jugendBlau,
           size: 12pt,
           "DLRG-Jugend St. Leon | An der Autobahn 58 | 68789 St. Leon-Rot | jugend@st-leon.dlrg.de ",
         )],
@@ -136,7 +125,7 @@
   /// Heading Formatting
   set heading(numbering: "I.")
   show heading: set align(left)
-  show heading: set text(fill: blue, font: "Josefin Sans", weight: "bold")
+  show heading: set text(fill: jugendBlau, font: "Josefin Sans", weight: "bold")
 
   show heading.where(level: 1): set text(size: 18pt)
   show heading.where(level: 2): set text(size: size)
@@ -148,7 +137,7 @@
     numbering: (..numbers) => {
       let nums = numbers.pos()
       if (nums.len() == 1) {
-        return numbering("1.", ..nums)
+        return numbering("(1)", ..nums)
       } else if (nums.len() == 2) {
         return numbering("a)", ..nums.slice(1))
       } else if (nums.len() == 3) {
@@ -188,19 +177,7 @@
   }
 
   //title
-  par(text(font: "Josefin Sans", 1.8em, fill: blue, strong(full-title)), leading: 0.6em)
-
-
-  // Metadata once again. Needs to be down here to have the page size set.
-  // Can be used with `typst query`, e.g.:
-  //
-  // `typst query example.typ "<title>" --field value --one` returns `"[title]"`
-  [
-    #metadata(title)<title>
-    #metadata(abbreviation)<abbreviation>
-    #metadata(resolution)<resolution>
-    #metadata(in-effect)<in-effect>
-  ]
+  par(text(font: "Josefin Sans", 1.8em, fill: jugendBlau, strong(full-title)), leading: 0.6em)
 
   // allow footnotes that don't conflict with sentence numbers
   set footnote(numbering: "[1]")
