@@ -7,25 +7,27 @@
   logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
 )
 
+#outline()
+
 = Grundsätze
 
-§ 1 Name, Mitgliedschaft
+== Name, Mitgliedschaft
 
 Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
 
 
 
-§ 2 Ziele, Aufgaben und Inhalte
+== Ziele, Aufgaben und Inhalte
 
 + Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
 
 + Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen der Jugendlichen.
 
-§ 3 Eigenständigkeit
+== Eigenständigkeit
 
 Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanziellen Mittel in eigener Verantwortung.
 
-§ 4 Wahlrecht
+== Wahlrecht
 
 + In den Gliederungen der DLRG-Jugend besitzen ihre Mitglieder im Alter von 10 bis 26 Jahren und die von ihnen gewählten Vertreter*innen das uneingeschränkte Recht zu wählen und abzustimmen. Das Recht gewählt zu werden kann von Mitgliedern der DLRG-Jugend ab 12 Jahren, für den/die Jugendleiter*in, den/die Ressortleiter*in Finanzen und den/die Ressortleiter*in Freizeiten ab 16 Jahren, wahrgenommen werden und ist nicht auf das Höchstalter von 26 Jahren beschränkt.
 
@@ -35,7 +37,7 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 = Organe
 
-§ 5 Organe
+== Organe
 
 + Organe der DLRG-Jugend sind:
 
@@ -46,7 +48,7 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 + Die Organe können auch ohne physische Anwesenheit am Versammlungsort als Online-Versammlung tagen. Für Wahlen und Abstimmungen muss dafür ein geeignetes Verfahren eingesetzt werden.
 
-§ 6 Jugendversammlung
+== Jugendversammlung
 
 
 + Die Jugendversammlung ist das höchste Organ der DLRG-Jugend.
@@ -102,7 +104,7 @@ Protokoll
 
 Über die Jugendversammlung ist ein Protokoll zu fertigen, welches von der protokollführenden Person und von dem*der Vorsitzenden der Jugend zu unterzeichnen ist. Dem Protokoll ist eine Anwesenheitsliste beizufügen. Abschriften dieses Protokolls sind den Jugendlichen spätestens bei der darauffolgenden Jugendversammlung bekanntzugeben. Einsprüche gegen das Protokoll können nur von stimm- oder redeberechtigten Mitgliedern schriftlich beim Jugendvorstand geltend gemacht werden, und zwar binnen 6 Wochen nach Kenntnisnahme. Über einen Einspruch entscheidet der Jugendvorstand.
 
-§ 7 Jugendvorstand
+== Jugendvorstand
 
 + Der Jugendvorstand ist das Planungs- und Ausführungsorgan der DLRG-Jugend.
 
@@ -150,17 +152,17 @@ Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, d
 
 Die Organe der DLRG – Jugend können, für bestimmte Aufgabengebiete, Ausschüsse bilden, die Themen oder Maßnahmen vorbereiten. Die Organe der DLRG - Jugend können in Sachfragen Berater*innen zu Sitzungen hinzuziehen.
 
-§ 9 Geschäftsordnung
+== Geschäftsordnung
 
 Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der DLRG-Jugend auf Landesebene. Falls dort nicht geregelt, gelten die Regelungen der Geschäftsordnung der DLRG-Jugend auf Bundesebene.
 
-§ 10 Änderung der Jugendordnung
+== Änderung der Jugendordnung
 
 + Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Zweidrittel Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
 + Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes und der Bestätigung der Mitgliederversammlung.
 
-§ 11 Inkrafttreten
+== Inkrafttreten
 
 #v(50pt)
 #align(

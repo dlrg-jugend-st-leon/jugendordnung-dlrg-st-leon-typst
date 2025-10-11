@@ -116,14 +116,40 @@
   set text(hyphenate: true, lang: lang, size: size, font: font)
 
   /// Clause Detection
-  show regex("§ ([0-9a-zA-Z]+) (.+)$"): it => {
-    let (_, number, ..rest) = it.text.split()
+  // show regex("§ ([0-9a-zA-Z]+) (.+)$"): it => {
+  //   let (_, number, ..rest) = it.text.split()
 
-    section("§ " + number, rest.join(" "))
-  }
+  //   section("§ " + number, rest.join(" "))
+  // }
+
 
   /// Heading Formatting
-  set heading(numbering: "I.")
+  // set heading(numbering: (..numbers) => {
+  //   let nums = numbers.pos()
+  //   if (nums.len() == 1) {
+  //     return numbering("I.", ..nums)
+  //   } else if (nums.len() == 2) {
+  //     subsection-counter.step()
+  //     return numbering("§ 1", subsection-counter.get().first())
+  //   }
+  // })
+
+  let subsection-counter = state("subsection-counter", 0)
+
+
+  set heading(numbering: (..nums) => {
+    let levels = nums.pos()
+    if levels.len() == 1 {
+      // Oberüberschriften (level 1) normal nummerieren
+      numbering("I.", levels.last())
+    } else {
+      // Unterüberschriften (level 2) fortlaufend nummerieren
+      let counter = subsection-counter.update(n => n + 1)
+      numbering("1", counter)
+    }
+  })
+
+
   show heading: set align(left)
   show heading: set text(fill: jugendBlau, font: "Josefin Sans", weight: "bold")
 
