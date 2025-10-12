@@ -1,4 +1,5 @@
 - Anpassung der Terminologie an LJO
+- neues Design, das den Jugend-Designrichtlinien entspricht
 - Übernahme der digitalen Formate aus der LJO
 - Anpassung der Namen der Ämter
   - FLIB -> Freizeiten
