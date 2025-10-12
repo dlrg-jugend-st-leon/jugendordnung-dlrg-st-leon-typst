@@ -120,7 +120,7 @@ außerordentliche Jugendversammlung einberufen.
   + Ressortleiter*in Sonderaufgaben
   + Stellvertretende*r Ressortleiter*in Sonderaufgaben
   + Ressortleiter*in Raum- und Materialverwaltung
-  + Ressortleiter Informationstechnik
+  + Ressortleiter*in Digitales
   + Schriftführer*in
   + bis zu 2 Beisitzer*innen
 
