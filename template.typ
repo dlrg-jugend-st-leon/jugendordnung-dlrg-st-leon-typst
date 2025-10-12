@@ -83,7 +83,7 @@
         gutter: 10pt,
         [#grid(
           columns: (auto, auto, auto),
-          rows: 2cm,
+          rows: 1.8cm,
           align: horizon,
           grid.cell(
             box(logo),
