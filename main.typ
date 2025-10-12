@@ -143,7 +143,7 @@ einzuholen.
 
 Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
 
-§ 9 Ausschüsse und Berater
+§ 9 Beauftragte, Arbeitskreise und Kommissionen
 
 Die Organe und Gliederungen der DLRG-Jugend haben das Recht, für besondere
 Aufgabengebiete Beauftragte einzusetzen oder Arbeitskreise bzw. Kommissionen zu bilden, die Themen oder Maßnahmen vorbereiten.

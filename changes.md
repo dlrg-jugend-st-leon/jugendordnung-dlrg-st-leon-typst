@@ -1,0 +1,17 @@
+- Anpassung der Terminologie an LJO
+- Übernahme der digitalen Formate aus der LJO
+- Anpassung der Namen der Ämter
+  - FLIB -> Freizeiten
+  - WUF -> Finanzen
+  - GruPoB -> Bildung
+  - Kassenprüfer*in -> Revisor*in
+- Neue mögliche Ämter
+  - Ressortleiter*in Inforamtionstechnik
+  - Stellvertretende*r Ressortleiter*in Öffentlichkeitsarbeit
+- Übernahme der Regelung bei Nichtbesetzung eines Posten aus der LJO
+- Aufteilung des Punktes Beauftragte und Berater, wie in der LJO
+- Verschiebung des Punktes Finanzen aus Jugendvorstand in Allgemeines
+- Streichen der Punkte Fristen, Anträge, Beschlussfassung,  Abstimmungen, Wahlen und Protokoll, da diese genauso bereits in der GO der DLRG-Jugend Baden schon geregelt sind. Ziel Vereinheitlichung und dass diese nicht immer an die GO angepasst werden müssen, wenn sich diese ändert
+
+-  Was nicht aus der LJO übernommen wurde:
+   -  Mehrfachspitzen 
