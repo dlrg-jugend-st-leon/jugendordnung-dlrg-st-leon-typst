@@ -4,7 +4,7 @@
   title: "Jugendordnung der DLRG St. Leon e.V.",
   title-short: "Jugendordung",
   draft: true,
-  logo: image("resources/St Leon.svg", alt: "DLRG Jugend St. Leon", fit: "cover"),
+  logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
 )
 
 = Grundsätze
