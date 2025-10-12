@@ -19,7 +19,26 @@ Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genann
 
 + Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
 
-+ Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen der Jugendlichen.
++ Aufgaben und Inhalte der Arbeit der DLRG-Jugend sind:
+  - Selbstorganisation der Jugend in Verband und Gesellschaft
+  - Gestaltung und Vermittlung von sozialen Verhaltensformen in verbandlichen und gesellschaftlichen Gruppen
+  - Erziehung zu demokratischem und staatsbürgerlichem Denken und Handeln
+  - Unterstützung der Persönlichkeitsentwicklung von Kindern und Jugendlichen
+  - Erhaltung der natürlichen Lebensgrundlagen
+  - Förderung der Friedenserziehung
+  - Verwirklichung der Gleichberechtigung zwischen den Geschlechtern
+  - Integration von Randgruppen in Verband und Gesellschaft
+  - Aus- und Weiterbildung von Kindern, Jugendlichen und jungen Erwachsenen
+  - Internationale Jugendarbeit
+  - Freizeiten, Kultur- und Jugendreisen
+  - Altersgerechte Angebote für Kinder und mit Kindern
+  - Kinder- und jugendgemäße Spiel- und Sportangebote
+  - Jugendtreffen
+  - Öffentlichkeitsarbeit
+  - Kooperation mit privaten und staatlichen Bildungseinrichtungen
+  - Prävention und Schutz vor Gefährdung des Wohls von Kindern, Jugendlichen und jungen Erwachsenen
+
++ Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen von Kindern und Jugendlichen mit.
 
 § 3 Eigenständigkeit
 
@@ -44,8 +63,6 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 + Die Organe der DLRG-Jugend tagen grundsätzlich verbandsöffentlich.
 
-+ Die Organe können auch ohne physische Anwesenheit am Versammlungsort als Online-Versammlung tagen. Für Wahlen und Abstimmungen muss dafür ein geeignetes Verfahren eingesetzt werden.
-
 § 6 Jugendversammlung
 
 
@@ -53,54 +70,33 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 + Stimmberechtigte Mitglieder sind:
 
-  + Die Mitglieder der DLRG-Jugend St. Leon
-  + Die Mitglieder des Jugendvorstandes
+  + die Mitglieder der DLRG-Jugend St. Leon
+  + die Mitglieder des Jugendvorstandes
 
-+ Die Jugendversammlung findet jährlich — möglichst vor der Einberufung der Mitgliederversammlung der DLRG St. Leon und des Bezirksjugendtages — statt.
++ Die Jugendversammlung findet jährlich — vor der Einberufung der Mitgliederversammlung der DLRG St. Leon und im Wahljahr vor der Einberufung des Bezirksjugendtages - statt.
 
 + Die Aufgaben der Jugendversammlung sind:
 
-  + Behandlung aller grundsätzlichen Fragen und Angelegenheiten der DLRG-Jugend.
-  + Festlegung der strategischen Ziele der DLRG-Jugend
+  + Behandlung aller grundsätzlichen Fragen und Angelegenheiten der DLRG-Jugend
+  + Behandlung von aktuellen politischen Themen
   + Entgegennahme von Berichten des Jugendvorstandes
   + Entgegennahme von Kassen- und Prüfberichten sowie die Entlastung des/der Ressortleiter*in Finanzen
   + Entlastung des Jugendvorstandes
+  + Einsetzen von Kommissionen, Wahl der Mitglieder und Entgegennahme ihrer Arbeits- bzw. Abschlussberichte
   + Wahl des Jugendvorstandes
-  + Wahl von mindestens zwei Kassenprüfer*innen und deren Stellvertreter*innen
-  + Nachwahlen nicht besetzter Vorstandsämter
+  + Wahl von mindestens zwei Revisor*innen
   + Wahl der Delegierten zum Bezirksjugendtag
   + Verabschiedung und Änderung der Jugendordnung
   + Genehmigung des Haushaltsplanes
   + Beschlussfassung über Anträge
 
 
-+ Wahlen finden mindestens alle zwei Jahre statt
+  Wahlen finden mindestens alle zwei Jahre statt
 
-+ Eine außerordentliche Jugendversammlung muss auf schriftlichen Antrag von mindestens einem Zehntel der stimmberechtigten Jugendlichen, mindestens aber zehn stimmberechtigten Mitgliedern der DLRG-Jugend oder auf Beschluss des Jugendvorstandes einberufen werden. Der Bezirksjugendvorstand kann nach Rücksprache mit dem Vorstand der DLRG St. Leon e.V. eine außerordentliche Jugendversammlung einberufen.
++ Eine außerordentliche Jugendversammlung muss auf Antrag von einem Zehntel der stimmberechtigten Jugendlichen oder auf Beschluss des Jugendvorstandes einberufen werden; der Antrag muss in Textform erfolgen. Dieser muss innerhalb von zehn Wochen nach Antragsstellung durchgeführt werden.
 
-+ Fristen
-
-  + Zu einer ordentlichen Jugendversammlung ist, mit Bekanntgabe der Tagesordnung, mindestens 3 Wochen, zu einer außerordentlichen Jugendversammlung mindestens 2 Wochen vorher einzuladen.
-  + Die Einladung erfolgt über die örtlichen Gemeindenachrichten.
-
-+ Anträge
-
-Anträge zur Jugendversammlung müssen schriftlich, spätestens eine Woche vorher eingereicht werden. Sie sind ohne Verzögerung den Mitgliedern zu Beginn der Versammlung bekanntzugeben.
-
-
-(9) Beschlussfassung
-
-Beschlüsse der Jugendversammlung werden, soweit diese Ordnung nichts anderes vorschreibt, mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Stimmenthaltungen und ungültige Stimmen gelten als nicht abgegeben und werden bei der Ermittlung der Mehrheit für Abstimmungen und Wahlen nicht mitgezählt.
-
-(10) Abstimmungen
-
-Abstimmungen erfolgen offen, soweit nicht die geheime Abstimmung beschlossen wird. Die Wahlen erfolgen grundsätzlich geheim. Wenn die anwesenden stimmberechtigten Mitglieder nicht widersprechen, kann offen gewählt werden. Wiederwahl ist zulässig. Gewählt ist, wer mehr als die Hälfte aller abgegebenen Stimmen auf sich vereinigt. Erreicht kein*e Kandidat*in die erforderliche Mehrheit der abgegebenen Stimmen, findet eine Stichwahl unter den Kandidaten*innen mit den beiden höchsten Stimmenzahlen statt, bei der gewählt ist, wer die meisten Stimmen erreicht. Bei Stimmengleichheit im Stichwahlgang entscheidet das Los.
-Im Übrigen regelt das Verfahren die Geschäftsordnung der DLRG.
-
-(11)
-Protokoll
-
-Über die Jugendversammlung ist ein Protokoll zu fertigen, welches von der protokollführenden Person und von dem*der Vorsitzenden der Jugend zu unterzeichnen ist. Dem Protokoll ist eine Anwesenheitsliste beizufügen. Abschriften dieses Protokolls sind den Jugendlichen spätestens bei der darauffolgenden Jugendversammlung bekanntzugeben. Einsprüche gegen das Protokoll können nur von stimm- oder redeberechtigten Mitgliedern schriftlich beim Jugendvorstand geltend gemacht werden, und zwar binnen 6 Wochen nach Kenntnisnahme. Über einen Einspruch entscheidet der Jugendvorstand.
+Der Bezirksjugendvorstand kann nach Rücksprache mit dem Vorstand der Gruppe eine
+außerordentliche Jugendversammlung einberufen.
 
 § 7 Jugendvorstand
 
@@ -128,39 +124,64 @@ Protokoll
   + Schriftführer*in
   + bis zu 2 Beisitzer*innen
 
-  #set enum(start: 1)
-+ Der Jugendvorstand wird auf die Dauer von 2 Jahren gewählt.
 
-+ Der Jugendvorstand ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend sind.
+Ist ein Posten nicht besetzt, so kann der amtierende Vorstand diesen bis zur nächsten
+Jugendversammlung vorübergehend durch eine geeignete Person besetzen. Ausgenommen sind
+die Revisor*innen. Die Bestätigung der Jugendversammlung ist bei deren nächster Sitzung
+einzuholen.
 
-+ Die Mitglieder des Jugendvorstandes haben je eine Stimme.
+#set enum(start: 4)
++ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
 
-+ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll zu führen. Das Protokoll ist vom Vorsitzenden der Jugend und vom Protokollführer zu unterzeichnen. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
++ Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
 
-+ Finanzen
-
-Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
-
-(9)
-Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
+#set enum(start: 1)
 
 = Allgemeines
 
-§ 8 Ausschüsse und Berater
+§ 8 Finanzen
 
-Die Organe der DLRG – Jugend können, für bestimmte Aufgabengebiete, Ausschüsse bilden, die Themen oder Maßnahmen vorbereiten. Die Organe der DLRG - Jugend können in Sachfragen Berater*innen zu Sitzungen hinzuziehen.
+Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
 
-§ 9 Geschäftsordnung
+§ 9 Ausschüsse und Berater
+
+Die Organe und Gliederungen der DLRG-Jugend haben das Recht, für besondere
+Aufgabengebiete Beauftragte einzusetzen oder Arbeitskreise bzw. Kommissionen zu bilden, die Themen oder Maßnahmen vorbereiten.
+
+§ 10 Berater*innen
+
+Die Organe und Gliederungen der DLRG-Jugend können in Sachfragen Berater*innen zu
+Sitzungen hinzuziehen.
+
+§ 11 Digitale Formate
+
++ Gremientagungen der DLRG-Jugend finden
+  grundsätzlich unter Anwesenheit ihrer Mitglieder an einem Versammlungsort (im Folgenden: “in
+  Präsenz”) statt. In den unter (2) genannten Ausnahmefällen sind digitale bzw. hybride
+  Formate möglich. Hierbei ist durch geeignete technische Maßnahmen sicherzustellen, dass alle
+  Beteiligten unabhängig von ihrer Teilnahmeform gleichermaßen die Möglichkeit haben, sich an
+  Diskussionen, Abstimmungen und Wahlen zu beteiligen und dass die Mitgliedsrechte nur von
+  Berechtigten ausgeübt werden können.
+
++ Ausnahmen sind wie folgt möglich:
+  + Wenn die Jugendversammlung aus schwerwiegenden Gründen wie Naturkatastrophen, Pandemien oder ähnlichem nicht in Präsenz zusammentreten kann, ist der jeweilige Jugendvorstand zu dem Beschluss berechtigt, die entsprechende Gremientagung unter Wahrung der Mitgliederrechte als digitale bzw. hybride Veranstaltung durchzuführen.
+
+  + Die Durchführung von Jugendvorstandssitzungen ist in Präsenz, digital oder hybrid möglich.
+
+  + Eine Beschlussfassung per Umlaufbeschluss ist möglich, z. B. per E-Mail.
+
+
+§ 12 Geschäftsordnung
 
 Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der DLRG-Jugend auf Landesebene. Falls dort nicht geregelt, gelten die Regelungen der Geschäftsordnung der DLRG-Jugend auf Bundesebene.
 
-§ 10 Änderung der Jugendordnung
+§ 13 Änderung der Jugendordnung
 
-+ Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Zweidrittel Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
++ Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Drittel der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
 + Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes und der Bestätigung der Mitgliederversammlung.
 
-§ 11 Inkrafttreten
+§ 14 Inkrafttreten
 
 #v(50pt)
 #align(
