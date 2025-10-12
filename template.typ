@@ -1,6 +1,7 @@
 // sentence number substitution marker
 #let s = "XXXXXXSENTENCEXXXNUMBERXXXXXX"
 
+// hex-Code for official DLRG-Jugend Farbe
 #let jugendBlau = rgb("#013157")
 
 /// Create an unmarkes section, such as a preamble.
@@ -52,7 +53,9 @@
   logo: none,
   // Overrides
   size: 12pt,
+  heading-size: 18pt,
   font: "Mulish",
+  heading-font: "Josefin Sans",
   lang: "de",
   paper: "a4",
   // Content
@@ -125,9 +128,9 @@
   /// Heading Formatting
   set heading(numbering: "I.")
   show heading: set align(left)
-  show heading: set text(fill: jugendBlau, font: "Josefin Sans", weight: "bold")
+  show heading: set text(fill: jugendBlau, font: heading-font, weight: "bold")
 
-  show heading.where(level: 1): set text(size: 18pt)
+  show heading.where(level: 1): set text(size: heading-size)
   show heading.where(level: 2): set text(size: size)
 
   // Enumeration numbering
@@ -177,7 +180,7 @@
   }
 
   //title
-  align(center, par(text(font: "Josefin Sans", 20pt, fill: jugendBlau, strong(title)), leading: 0.6em))
+  align(center, par(text(font: heading-font, 20pt, fill: jugendBlau, strong(title)), leading: 0.6em))
 
 
   // allow footnotes that don't conflict with sentence numbers
