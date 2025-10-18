@@ -51,6 +51,10 @@
   abbreviation: none,
   draft: false,
   logo: none,
+  vereinsname: none,
+  straßeHausnummer: none,
+  plzOrt: none,
+  email: none,
   // Overrides
   size: 12pt,
   heading-size: 18pt,
@@ -86,7 +90,7 @@
           rows: 1.8cm,
           align: horizon,
           grid.cell(
-            box(logo),
+            box(image(logo, alt: "DLRG Jugend Logo")),
           ),
           grid.cell(
             h(1fr),
@@ -109,7 +113,7 @@
         [#text(
           fill: jugendBlau,
           size: 12pt,
-          "DLRG-Jugend St. Leon | An der Autobahn 58 | 68789 St. Leon-Rot | jugend@st-leon.dlrg.de ",
+          vereinsname + " | " + straßeHausnummer + " | " + plzOrt + " | " + email,
         )],
       )
 

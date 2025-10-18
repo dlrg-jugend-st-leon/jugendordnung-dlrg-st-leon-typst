@@ -1,17 +1,22 @@
 #import "template.typ": *
 
+// hier die Informationen an die Ortsgruppe anpassen
 #show: template.with(
-  title: "Jugendordnung der DLRG St. Leon e.V.",
+  title: "Jugendordnung der DLRG XYZ e.V.",
   title-short: "Jugendordung",
   draft: true,
-  logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
+  logo: "resources/dlrg-jugend-pride.svg",
+  vereinsname: "DLRG-Jugend XYZ",
+  straßeHausnummer: "Im Niedernfeld 1-3",
+  plzOrt: "31542 Bad Nenndorf",
+  email: "jugend@xyz.dlrg.de",
 )
 
 = Grundsätze
 
 § 1 Name, Mitgliedschaft
 
-Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
+Die DLRG Jugend in der Ortsgruppe XYZ e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG XYZ e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
 
 
 
@@ -38,7 +43,7 @@ Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genann
   - Kooperation mit privaten und staatlichen Bildungseinrichtungen
   - Prävention und Schutz vor Gefährdung des Wohls von Kindern, Jugendlichen und jungen Erwachsenen
 
-+ Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen von Kindern und Jugendlichen mit.
++ Die DLRG-Jugend arbeitet an der Gestaltung der DLRG XYZ e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen von Kindern und Jugendlichen mit.
 
 § 3 Eigenständigkeit
 
@@ -70,10 +75,10 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 + Stimmberechtigte Mitglieder sind:
 
-  + die Mitglieder der DLRG-Jugend St. Leon
+  + die Mitglieder der DLRG-Jugend XYZ
   + die Mitglieder des Jugendvorstandes
 
-+ Die Jugendversammlung findet jährlich — vor der Einberufung der Mitgliederversammlung der DLRG St. Leon und im Wahljahr vor der Einberufung des Bezirksjugendtages - statt.
++ Die Jugendversammlung findet jährlich — vor der Einberufung der Mitgliederversammlung der DLRG XYZ und im Wahljahr vor der Einberufung des Bezirksjugendtages - statt.
 
 + Die Aufgaben der Jugendversammlung sind:
 
@@ -131,7 +136,7 @@ die Revisor*innen. Die Bestätigung der Jugendversammlung ist bei deren nächste
 einzuholen.
 
 #set enum(start: 4)
-+ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
++ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene. Das Protokoll ist dem Vorstand der DLRG XYZ zur Kenntnisnahme vorzulegen.
 
 + Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
 
@@ -141,7 +146,7 @@ einzuholen.
 
 § 8 Finanzen
 
-Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
+Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG XYZ zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
 
 § 9 Beauftragte, Arbeitskreise und Kommissionen
 
