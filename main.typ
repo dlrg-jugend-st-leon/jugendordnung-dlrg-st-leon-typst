@@ -105,6 +105,11 @@ außerordentliche Jugendversammlung einberufen.
   + bis zu 3 Beisitzer*innen
 
 
+Die Mitglieder des Vorstandes nach Absatz 2 a) bis c) und Absatz 3 werden für den Zeitraum bis
+zur nächsten ordentlichen Jugendversammlung mit dem Punkt Wahlen für die jeweiligen Ämter
+auf der Tagesordnung gewählt. Ihre Amtszeit endet mit dem Aufruf der Wahl des jeweiligen
+Amtes oder Rücktritt. Das gilt auch für Nachwahlen.
+
 Ist ein Posten nicht besetzt, so kann der amtierende Vorstand diesen bis zur nächsten
 Jugendversammlung vorübergehend durch eine geeignete Person besetzen. Ausgenommen sind
 die Revisor*innen. Die Bestätigung der Jugendversammlung ist bei deren nächster Sitzung
@@ -113,7 +118,12 @@ einzuholen.
 #set enum(start: 4)
 + Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene anzufertigen. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
 
++ Die Mitglieder des Jugendvorstandes haben je eine Stimme.
+
 + Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
+
++ Der Jugendvorstand tritt mindestens einmal jährlich zusammen. Auf Antrag von mindestens
+  einem Drittel der Mitglieder des Jugendvorstandes muss eine Sitzung einberufen werden.
 
 #set enum(start: 1)
 
@@ -149,6 +159,12 @@ Sitzungen hinzuziehen.
   + Die Durchführung von Jugendvorstandssitzungen ist in Präsenz, digital oder hybrid möglich.
 
   + Eine Beschlussfassung per Umlaufbeschluss ist möglich, z. B. per E-Mail.
++ Für einen Umlaufbeschluss müssen alle Vorstandsmitglieder in Textform informiert werden.
+  Diese müssen innerhalb von einer Woche ihre Entscheidung in Textform mitteilen. Anträge
+  gelten als angenommen, wenn mehr als die Hälfte der Vorstandsmitglieder dafür stimmt und als
+  abgelehnt, wenn mehr als die Hälfte dagegen stimmt. Das Ergebnis muss den
+  Vorstandsmitgliedern nach Feststellung des Ergebnisses mitgeteilt und in das Protokoll der
+  nächsten Vorstandssitzung aufgenommen werden.
 
 
 § 12 Geschäftsordnung
