@@ -120,30 +120,32 @@ einzuholen.
 
 + Die Mitglieder des Jugendvorstandes haben je eine Stimme.
 
-+ Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
-
 + Der Jugendvorstand tritt mindestens einmal jährlich zusammen. Auf Antrag von mindestens
   einem Drittel der Mitglieder des Jugendvorstandes muss eine Sitzung einberufen werden.
+
++ Finanzen
+
+  Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
+
++ Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
+
+
 
 #set enum(start: 1)
 
 = Allgemeines
 
-§ 8 Finanzen
-
-Der Jugendvorstand erstellt für das Geschäftsjahr (Kalenderjahr) einen Haushalt, der die geplanten Einnahmen und Ausgaben darstellt. Dieser Haushalt ist dem Vorstand der DLRG St. Leon zur Genehmigung vorzulegen, anschließend ist er in der Jugendversammlung zur Abstimmung zu stellen.
-
-§ 9 Beauftragte, Arbeitskreise und Kommissionen
+§ 8 Beauftragte, Arbeitskreise und Kommissionen
 
 Die Organe und Gliederungen der DLRG-Jugend haben das Recht, für besondere
 Aufgabengebiete Beauftragte einzusetzen oder Arbeitskreise bzw. Kommissionen zu bilden, die Themen oder Maßnahmen vorbereiten.
 
-§ 10 Berater*innen
+§ 9 Berater*innen
 
 Die Organe und Gliederungen der DLRG-Jugend können in Sachfragen Berater*innen zu
 Sitzungen hinzuziehen.
 
-§ 11 Digitale Formate
+§ 10 Digitale Formate
 
 + Gremientagungen der DLRG-Jugend finden
   grundsätzlich unter Anwesenheit ihrer Mitglieder an einem Versammlungsort (im Folgenden: „in
@@ -167,17 +169,17 @@ Sitzungen hinzuziehen.
   nächsten Vorstandssitzung aufgenommen werden.
 
 
-§ 12 Geschäftsordnung
+§ 11 Geschäftsordnung
 
 Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der DLRG-Jugend auf Landesebene. Falls dort nicht geregelt, gelten die Regelungen der Geschäftsordnung der DLRG-Jugend auf Bundesebene.
 
-§ 13 Änderung der Jugendordnung
+§ 12 Änderung der Jugendordnung
 
 + Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Drittel der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
 + Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes und der Bestätigung der Mitgliederversammlung.
 
-§ 14 Inkrafttreten
+§ 13 Inkrafttreten
 
 #v(50pt)
 #align(
