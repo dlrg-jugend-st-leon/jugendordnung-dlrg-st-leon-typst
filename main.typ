@@ -173,7 +173,7 @@ Sitzungen hinzuziehen.
 
 Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der DLRG-Jugend auf Landesebene. Falls dort nicht geregelt, gelten die Regelungen der Geschäftsordnung der DLRG-Jugend auf Bundesebene.
 
-§ 12 Änderung der Jugendordnung
+§ 12 Änderung
 
 + Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Dritteln der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
