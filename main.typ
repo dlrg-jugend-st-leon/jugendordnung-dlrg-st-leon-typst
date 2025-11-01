@@ -175,7 +175,7 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
 
 § 12 Änderung der Jugendordnung
 
-+ Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Drittel der anwesenden stimmberechtigten Mitglieder beschlossen werden.
++ Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Dritteln der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
 + Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes und der Bestätigung der Mitgliederversammlung.
 
