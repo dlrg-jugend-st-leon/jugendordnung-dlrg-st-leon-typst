@@ -181,6 +181,8 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
 
 § 13 Inkrafttreten
 
+Das ist ein Entwurf!
+
 #v(50pt)
 #align(
   center,
