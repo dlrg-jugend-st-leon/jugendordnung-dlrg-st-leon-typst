@@ -7,8 +7,8 @@
   - GruPoB -> Bildung
   - Kassenprüfer*in -> Revisor*in
 - Neue mögliche Ämter
-  - Ressortleiter*in Inforamtionstechnik
-  - Stellvertretende*r Ressortleiter*in Öffentlichkeitsarbeit
+  - Ressortleiter*in Digitales
+  - ein weiterer Beisitzer
 - Übernahme der Regelung bei Nichtbesetzung eines Posten aus der LJO
 - Aufteilung des Punktes Beauftragte und Berater, wie in der LJO
 - Verschiebung des Punktes Finanzen aus Jugendvorstand in Allgemeines

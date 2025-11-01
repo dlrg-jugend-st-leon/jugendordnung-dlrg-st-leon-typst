@@ -52,7 +52,7 @@
   draft: false,
   logo: none,
   // Overrides
-  size: 12pt,
+  size: 11pt,
   heading-size: 18pt,
   font: "Mulish",
   heading-font: "Josefin Sans",
