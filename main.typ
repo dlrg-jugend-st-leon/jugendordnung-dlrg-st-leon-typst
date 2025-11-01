@@ -116,12 +116,12 @@ die Revisor*innen. Die Bestätigung der Jugendversammlung ist bei deren nächste
 einzuholen.
 
 #set enum(start: 4)
-+ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene anzufertigen. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
++ Der Jugendvorstand tritt mindestens einmal jährlich zusammen. Auf Antrag  von mindestens
+  einem Drittel der Mitglieder des Jugendvorstandes muss eine Sitzung einberufen werden.
 
 + Die Mitglieder des Jugendvorstandes haben je eine Stimme.
 
-+ Der Jugendvorstand tritt mindestens einmal jährlich zusammen. Auf Antrag von mindestens
-  einem Drittel der Mitglieder des Jugendvorstandes muss eine Sitzung einberufen werden.
++ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene anzufertigen. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
 
 + Finanzen
 
