@@ -2,16 +2,16 @@
 
 #show: template.with(
   title: "Jugendordnung der DLRG St. Leon e.V.",
-  title-short: "Jugendordung",
+  title-short: "Jugendordnung",
   draft: true,
-  logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG Jugend St. Leon", fit: "cover"),
+  logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG-Jugend St. Leon", fit: "cover"),
 )
 
 = Grundsätze
 
 § 1 Name, Mitgliedschaft
 
-Die DLRG Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
+Die DLRG-Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
 
 
 
@@ -58,8 +58,8 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 + Organe der DLRG-Jugend sind:
 
-  + Die Jugendversammlung
-  + Der Jugendvorstand
+  + die Jugendversammlung
+  + der Jugendvorstand
 
 + Die Organe der DLRG-Jugend tagen grundsätzlich verbandsöffentlich.
 
@@ -111,7 +111,6 @@ außerordentliche Jugendversammlung einberufen.
 + weitere Mitglieder des Jugendvorstandes können sein:
   #set enum(start: 4)
   + Ressortleiter*in Öffentlichkeitsarbeit
-  + Stellvertretende*r Ressortleiter*in Öffentlichkeitsarbeit
   + Ressortleiter*in Freizeiten
   + Stellvertretende*r Ressortleiter*in Freizeiten
   + Ressortleiter*in Kindergruppenarbeit
@@ -122,7 +121,7 @@ außerordentliche Jugendversammlung einberufen.
   + Ressortleiter*in Raum- und Materialverwaltung
   + Ressortleiter*in Digitales
   + Schriftführer*in
-  + bis zu 2 Beisitzer*innen
+  + bis zu 3 Beisitzer*innen
 
 
 Ist ein Posten nicht besetzt, so kann der amtierende Vorstand diesen bis zur nächsten
@@ -131,7 +130,7 @@ die Revisor*innen. Die Bestätigung der Jugendversammlung ist bei deren nächste
 einzuholen.
 
 #set enum(start: 4)
-+ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
++ Zu den Sitzungen des Jugendvorstandes ist ein Protokoll gemäß der Geschäftsordnung der DLRG-Jugend auf Landesebene anzufertigen. Das Protokoll ist dem Vorstand der DLRG St. Leon zur Kenntnisnahme vorzulegen.
 
 + Der Jugendvorstand führt die Geschäfte nach einem Geschäftsverteilungsplan, den er sich selbst gibt.
 
@@ -156,7 +155,7 @@ Sitzungen hinzuziehen.
 § 11 Digitale Formate
 
 + Gremientagungen der DLRG-Jugend finden
-  grundsätzlich unter Anwesenheit ihrer Mitglieder an einem Versammlungsort (im Folgenden: “in
+  grundsätzlich unter Anwesenheit ihrer Mitglieder an einem Versammlungsort (im Folgenden: „in
   Präsenz”) statt. In den unter (2) genannten Ausnahmefällen sind digitale bzw. hybride
   Formate möglich. Hierbei ist durch geeignete technische Maßnahmen sicherzustellen, dass alle
   Beteiligten unabhängig von ihrer Teilnahmeform gleichermaßen die Möglichkeit haben, sich an
@@ -190,8 +189,7 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
     columns: (auto, auto),
     align: center,
     gutter: 3cm,
-    [#line(length: 6cm) #text("Unterschrift Vorsitzende*r der Jugend")],
-    [#line(length: 6cm) #text("Unterschrift Schriftführer*in")],
+    [#line(length: 6cm) #text("Vorsitzende*r der Jugend")], [#line(length: 6cm) #text("Protokollführer*in")],
   ),
 )
 
