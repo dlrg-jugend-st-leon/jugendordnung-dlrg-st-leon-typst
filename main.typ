@@ -17,26 +17,7 @@ Die DLRG-Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genann
 
 § 2 Ziele, Aufgaben und Inhalte
 
-+ Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
-
-+ Aufgaben und Inhalte der Arbeit der DLRG-Jugend sind:
-  - Selbstorganisation der Jugend in Verband und Gesellschaft
-  - Gestaltung und Vermittlung von sozialen Verhaltensformen in verbandlichen und gesellschaftlichen Gruppen
-  - Erziehung zu demokratischem und staatsbürgerlichem Denken und Handeln
-  - Unterstützung der Persönlichkeitsentwicklung von Kindern und Jugendlichen
-  - Erhaltung der natürlichen Lebensgrundlagen
-  - Förderung der Friedenserziehung
-  - Verwirklichung der Gleichberechtigung zwischen den Geschlechtern
-  - Integration von Randgruppen in Verband und Gesellschaft
-  - Aus- und Weiterbildung von Kindern, Jugendlichen und jungen Erwachsenen
-  - Internationale Jugendarbeit
-  - Freizeiten, Kultur- und Jugendreisen
-  - Altersgerechte Angebote für Kinder und mit Kindern
-  - Kinder- und jugendgemäße Spiel- und Sportangebote
-  - Jugendtreffen
-  - Öffentlichkeitsarbeit
-  - Kooperation mit privaten und staatlichen Bildungseinrichtungen
-  - Prävention und Schutz vor Gefährdung des Wohls von Kindern, Jugendlichen und jungen Erwachsenen
++ Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundes- und Landesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
 
 + Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen von Kindern und Jugendlichen mit.
 
