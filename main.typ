@@ -65,7 +65,7 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
   + Entlastung des Jugendvorstandes
   + Einsetzen von Kommissionen, Wahl der Mitglieder und Entgegennahme ihrer Arbeits- bzw. Abschlussberichte
   + Wahl des Jugendvorstandes
-  + Wahl von mindestens zwei Revisor*innen
+  + Wahl von mindestens zwei Revisor*innen und deren Stellvertreter*innen
   + Wahl der Delegierten zum Bezirksjugendtag
   + Verabschiedung und Änderung der Jugendordnung
   + Genehmigung des Haushaltsplanes
