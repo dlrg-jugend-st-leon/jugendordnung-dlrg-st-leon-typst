@@ -11,7 +11,7 @@
 
 § 1 Name, Mitgliedschaft
 
-Die DLRG-Jugend in der Ortsgruppe St. Leon e.V., im folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
+Die Jugend der Deutschen Lebens-Rettungs-Gesellschaft in der Ortsgruppe St. Leon e.V., im Folgenden DLRG-Jugend genannt, bilden alle Mitglieder der DLRG St. Leon e.V. bis einschließlich 26 Jahren und die von ihnen - unabhängig vom Alter - gewählten Vertreter*innen.
 
 
 
@@ -74,7 +74,7 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
   Wahlen finden mindestens alle zwei Jahre statt
 
-+ Eine außerordentliche Jugendversammlung muss auf Antrag von einem Zehntel der stimmberechtigten Jugendlichen oder auf Beschluss des Jugendvorstandes einberufen werden; der Antrag muss in Textform erfolgen. Dieser muss innerhalb von zehn Wochen nach Antragsstellung durchgeführt werden.
++ Eine außerordentliche Jugendversammlung muss auf Antrag von einem Zehntel der stimmberechtigten Jugendlichen oder auf Beschluss des Jugendvorstandes einberufen werden; der Antrag muss in Textform erfolgen. Dieser muss innerhalb von zehn Wochen nach Antragstellung durchgeführt werden.
 
 Der Bezirksjugendvorstand kann nach Rücksprache mit dem Vorstand der Gruppe eine
 außerordentliche Jugendversammlung einberufen.
