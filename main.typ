@@ -17,7 +17,29 @@ Die Jugend der Deutschen Lebens-Rettungs-Gesellschaft in der Ortsgruppe St. Leon
 
 § 2 Ziele, Aufgaben und Inhalte
 
-+ Die Ziele, Aufgaben und Inhalte der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene und werden durch die strategischen Ziele der DLRG-Jugend ergänzt.
++ Die Ziele der DLRG-Jugend basieren auf dem Leitbild der DLRG-Jugend auf Bundesebene.
+
++ Aufgaben und Inhalte der Arbeit der DLRG-Jugend sind:
+  - Selbstorganisation der Jugend in Verband und Gesellschaft
+  - Gestaltung und Vermittlung von sozialen Verhaltensformen in verbandlichen und
+    gesellschaftlichen Gruppen
+  - Erziehung zu demokratischem und staatsbürgerlichem Denken und Handeln
+  - Unterstützung der Persönlichkeitsentwicklung von Kindern und Jugendlichen
+  - Erhaltung der natürlichen Lebensgrundlagen
+  - Förderung der Friedenserziehung
+  - Verwirklichung der Gleichberechtigung zwischen den Geschlechtern
+  - Integration von Randgruppen in Verband und Gesellschaft
+  - Aus- und Weiterbildung von Kindern, Jugendlichen und jungen Erwachsenen
+  - Internationale Jugendarbeit
+  - Freizeiten, Kultur- und Jugendreisen
+  - Altersgerechte Angebote für Kinder und mit Kindern
+  - Kinder- und jugendgemäße Spiel- und Sportangebote
+  - Jugendtreffen
+  - Öffentlichkeitsarbeit
+  - Kooperation mit privaten und staatlichen Bildungseinrichtungen
+  - Prävention und Schutz vor Gefährdung des Wohls von Kindern, Jugendlichen und jungen
+    Erwachsenen
+
 
 + Die DLRG-Jugend arbeitet an der Gestaltung der DLRG St. Leon e.V. und der Erfüllung deren satzungsgemäßen Aufgaben unter Berücksichtigung der Interessen von Kindern und Jugendlichen mit.
 
@@ -27,7 +49,7 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
 
 § 4 Wahlrecht
 
-+ In den Gliederungen der DLRG-Jugend besitzen ihre Mitglieder im Alter von 10 bis 26 Jahren und die von ihnen gewählten Vertreter*innen das uneingeschränkte Recht zu wählen und abzustimmen. Das Recht gewählt zu werden kann von Mitgliedern der DLRG-Jugend ab 12 Jahren, für den/die Jugendleiter*in, den/die Ressortleiter*in Finanzen und den/die Ressortleiter*in Freizeiten ab 16 Jahren, wahrgenommen werden und ist nicht auf das Höchstalter von 26 Jahren beschränkt.
++ In den Gliederungen der DLRG-Jugend besitzen ihre Mitglieder im Alter von 10 bis 26 Jahren und die von ihnen gewählten Vertreter*innen das uneingeschränkte Recht zu wählen und abzustimmen. Das Recht gewählt zu werden kann von Mitgliedern der DLRG-Jugend ab 12 Jahren, für den/die Jugendleiter*in und den/die Ressortleiter*in Finanzen ab 16 Jahren, wahrgenommen werden und ist nicht auf das Höchstalter von 26 Jahren beschränkt.
 
 + Das Wahl- und Stimmrecht ist persönlich wahrzunehmen, eine Stimmabgabe durch die gesetzlichen Vertreter ist nicht möglich.
 
@@ -65,14 +87,14 @@ Die Organe der DLRG-Jugend arbeiten selbständig und verfügen über ihre finanz
   + Entlastung des Jugendvorstandes
   + Einsetzen von Kommissionen, Wahl der Mitglieder und Entgegennahme ihrer Arbeits- bzw. Abschlussberichte
   + Wahl des Jugendvorstandes
-  + Wahl von mindestens zwei Revisor*innen und deren Stellvertreter*innen
+  + Wahl von mindestens vier Revisor*innen
   + Wahl der Delegierten zum Bezirksjugendtag
   + Verabschiedung und Änderung der Jugendordnung
   + Genehmigung des Haushaltsplanes
   + Beschlussfassung über Anträge
 
 
-  Wahlen finden mindestens alle zwei Jahre statt
+  Wahlen finden mindestens alle drei Jahre statt
 
 + Eine außerordentliche Jugendversammlung muss auf Antrag von einem Zehntel der stimmberechtigten Jugendlichen oder auf Beschluss des Jugendvorstandes einberufen werden; der Antrag muss in Textform erfolgen. Dieser muss innerhalb von zehn Wochen nach Antragstellung durchgeführt werden.
 
@@ -88,6 +110,7 @@ außerordentliche Jugendversammlung einberufen.
   + Vorsitzende*r der Jugend
   + Stellvertretende*r Vorsitzende*r der Jugend
   + Ressortleiter*in Finanzen
+  + Vertretung des Ortsgruppenvorstandes gemäß dessen Satzung.
 
 + weitere Mitglieder des Jugendvorstandes können sein:
   #set enum(start: 4)
@@ -177,7 +200,7 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
 
 + Eine Änderung der Jugendordnung kann nur durch die Jugendversammlung mit einer Mehrheit von zwei Dritteln der anwesenden stimmberechtigten Mitglieder beschlossen werden.
 
-+ Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes und der Bestätigung der Mitgliederversammlung.
++ Die Jugendordnung und deren Änderung bedürfen der Zustimmung des Bezirksjugendvorstandes.
 
 § 13 Inkrafttreten
 
