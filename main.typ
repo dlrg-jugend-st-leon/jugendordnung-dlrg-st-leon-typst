@@ -206,6 +206,8 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
 
 + Die vorliegende Fassung wurde auf der ordentlichen Jugendversammlung der DLRG St. Leon e.V. am 31.01.2026 in St. Leon-Rot von den anwesenden stimmberechtigten Mitgliedern mit der erforderlichen qualifizierten Mehrheit verabschiedet.
 
++ Bis bisherige Fassung, verabschiedet auf der ordentlichen Jugendversammlung am 18.06.2020 in St. Leon-Rot, tritt mit Wirkung vom 23.03.2022 außer Kraft.
+
 + Bis bisherige Fassung, verabschiedet auf der ordentlichen Jugendversammlung am 23.03.2022 in St. Leon-Rot, tritt mit Wirkung vom 31.01.2026 außer Kraft.
 
 // #v(50pt)
