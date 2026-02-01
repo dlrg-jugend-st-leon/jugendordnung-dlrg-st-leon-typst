@@ -1,5 +1,8 @@
+#import "footer.typ": jugend-footer
+
 // sentence number substitution marker
 #let s = "XXXXXXSENTENCEXXXNUMBERXXXXXX"
+
 
 // hex-Code for official DLRG-Jugend Farbe
 #let jugendBlau = rgb("#013157")
@@ -100,21 +103,7 @@
 
 
     ],
-    footer: context [
-      #place(top + right, text(fill: jugendBlau, counter(page).display("1")))
-      #grid(
-        columns: auto,
-        gutter: 10pt,
-        [#image("resources/welle-outline-saphir.svg", width: 100%)],
-        [#text(
-          fill: jugendBlau,
-          size: 12pt,
-          "DLRG-Jugend St. Leon | An der Autobahn 58 | 68789 St. Leon-Rot | jugend@st-leon.dlrg.de ",
-        )],
-      )
-
-
-    ],
+    footer: jugend-footer,
   )
   set text(hyphenate: true, lang: lang, size: size, font: font)
 
