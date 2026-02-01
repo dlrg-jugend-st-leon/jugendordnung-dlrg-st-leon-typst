@@ -204,17 +204,18 @@ Für die Durchführung von Sitzungen und Tagungen gilt die Geschäftsordnung der
 
 § 13 Inkrafttreten
 
-+ Die vorliegende Fassung ist ein Entwurf und wird auf der ordentlichen Jugendversammlung der DLRG St. Leon e.V. am 31.01.2026 zur Abstimmung vorgelegt.
++ Die vorliegende Fassung wurde auf der ordentlichen Jugendversammlung der DLRG St. Leon e.V. am 31.01.2026 in St. Leon-Rot von den anwesenden stimmberechtigten Mitgliedern mit der erforderlichen qualifizierten Mehrheit verabschiedet.
 
++ Bis bisherige Fassung, verabschiedet auf der ordentlichen Jugendversammlung am 23.03.2022 in St. Leon-Rot, tritt mit Wirkung vom 31.01.2026 außer Kraft.
 
-#v(50pt)
-#align(
-  center,
-  grid(
-    columns: (auto, auto),
-    align: center,
-    gutter: 3cm,
-    [#line(length: 6cm) #text("Vorsitzende*r der Jugend")], [#line(length: 6cm) #text("Protokollführer*in")],
-  ),
-)
+// #v(50pt)
+// #align(
+//   center,
+//   grid(
+//     columns: (auto, auto),
+//     align: center,
+//     gutter: 3cm,
+//     [#line(length: 6cm) #text("Vorsitzende*r der Jugend")], [#line(length: 6cm) #text("Protokollführer*in")],
+//   ),
+// )
 
