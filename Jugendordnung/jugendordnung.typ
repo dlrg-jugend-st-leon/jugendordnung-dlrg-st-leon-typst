@@ -1,10 +1,10 @@
-#import "template.typ": *
+#import "../template.typ": *
 
 #show: template.with(
   title: "Jugendordnung der DLRG St. Leon e.V.",
   title-short: "Jugendordnung",
   draft: true,
-  logo: image("resources/Jugendlogo-transparent.jpeg", alt: "DLRG-Jugend St. Leon", fit: "cover"),
+  logo: image("../resources/Jugendlogo-transparent.jpeg", alt: "DLRG-Jugend St. Leon", fit: "cover"),
 )
 
 = Grundsätze

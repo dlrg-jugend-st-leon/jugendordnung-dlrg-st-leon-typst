@@ -186,6 +186,10 @@
   // allow footnotes that don't conflict with sentence numbers
   set footnote(numbering: "[1]")
 
+  set table(stroke: jugendBlau)
+
+  set line(stroke: jugendBlau)
+
   /// Content
   body
 }
