@@ -99,15 +99,14 @@
     ],
 
     date: today-german(),
-    subject: "Bitte um Freistellung für ehrenamtliche Tätigkeit für Deutsche Lebens-Rettungs-Gesellschaft",
+    subject: [Bitte um Freistellung für ehrenamtliche Tätigkeit für #strong(employee-name)],
   )[
     #greeting
 
     im Rahmen der Teilnahme an unserer diesjährigen Veranstaltung
 
     #align(center, strong(event-name))
-
-    vom #format-german-date(start-date) bis #format-german-date(end-date)
+    #align(center, [vom #format-german-date(start-date) bis #format-german-date(end-date)])
 
     möchten wir Sie freundlichst darum bitten, unserem Mitglied #strong(employee-name) in dieser Zeit Sonderurlaub zu genehmigen, der im Rahmen des Gesetzes zur Stärkung des Ehrenamts in der Jugendarbeit vergeben werden kann. Die Arbeit bei uns ist vollständig ehrenamtlich, eine Aufwandsentschädigung oder ähnliche Vergütung erfolgt nicht.
 
