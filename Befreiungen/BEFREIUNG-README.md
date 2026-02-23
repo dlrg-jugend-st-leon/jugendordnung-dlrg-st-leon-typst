@@ -15,7 +15,7 @@ The main template file that defines the letter format and structure.
 - `end-date` (string): End date in `DD.MM.YYYY` format
 - `employee-name` (string): Full name of the volunteer/employee
 - `employee-address` (string): Address of the employee
-- `hr-contact` (string): HR contact person with title (e.g., "Frau Frank" or "Herr Heiler")
+- `hr-contact` (string): HR contact person with title (e.g., "Frau Frank" or "Herr Müller")
 
 **Features**:
 - Automatically formats dates to German short format (DD.MM.YY)
@@ -62,9 +62,9 @@ cd Befreiungen
 ```
 Befreiungen/
 ├── output/
-│   ├── Christian_Schmidt.pdf
-│   ├── Marvin_Zller.pdf
-│   ├── Ella_Mihatsch.pdf
+│   ├── Max_Mustermann.pdf
+│   ├── Anna_Beispiel.pdf
+│   ├── John_Doe.pdf
 │   └── ...
 ```
 

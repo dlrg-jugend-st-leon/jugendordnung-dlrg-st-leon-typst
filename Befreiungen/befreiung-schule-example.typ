@@ -5,9 +5,9 @@
   event-name: "Pfingstzeltlager 2024",
   start-date: "17.05.2024",
   end-date: "17.05.2024",
-  student-name: "Sarah Kamuf",
-  student-class: "Js2f",
-  teacher-name: "Herr Vollmer",
-  school-name: "Gymnasium Malsch",
+  student-name: "Anna Beispiel",
+  student-class: "10b",
+  teacher-name: "Frau Müller",
+  school-name: "Mustergymnasium",
 )
 

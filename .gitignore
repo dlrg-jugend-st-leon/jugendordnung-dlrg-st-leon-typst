@@ -2,3 +2,6 @@
 Befreiungen/output/*
 Befreiungen/output-schule/*
 Befreiungen/*.pdf
+# Exclude CSV files with personal data
+*.csv
+Befreiungen/*.csv

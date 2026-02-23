@@ -15,7 +15,7 @@ The main template file that defines the letter format and structure.
 - `end-date` (string): End date in `DD.MM.YYYY` format
 - `student-name` (string): Full name of the student
 - `student-class` (string): Student's class/grade (e.g., "TGI 13", "Js2f")
-- `teacher-name` (string): Teacher's name with title (e.g., "Herr Grötzinger" or "Frau Vollmer")
+- `teacher-name` (string): Teacher's name with title (e.g., "Herr Grötzinger" or "Frau Schmidt")
 - `school-name` (string): Name of the school (optional parameter, not displayed in letter)
 
 **Features**:
@@ -38,10 +38,10 @@ typst compile befreiung-schule-single.typ output.pdf \
   --input event-name="Pfingstzeltlager 2024" \
   --input start-date="17.05.2024" \
   --input end-date="17.05.2024" \
-  --input student-name="Sarah Kamuf" \
-  --input student-class="Js2f" \
-  --input teacher-name="Herr Vollmer" \
-  --input school-name="Gymnasium Malsch"
+  --input student-name="Anna Beispiel" \
+  --input student-class="10b" \
+  --input teacher-name="Frau Müller" \
+  --input school-name="Mustergymnasium"
 ```
 
 ### 3. `generate-batch-schule.sh`
@@ -67,11 +67,9 @@ cd Befreiungen
 ```
 Befreiungen/
 ├── output-schule/
-│   ├── Daniela_KZL.pdf
-│   ├── Matias_Mas_Viehl_Pizzabacken.pdf
-│   ├── Tim_Fuchsluger_PZL_2024.pdf
-│   ├── Tim_Fuchsluger_KZL_2024.pdf
-│   ├── Sarah_Kamuf_Pfingstzeltlager2024.pdf
+│   ├── Anna_Beispiel_Pfingstzeltlager2024.pdf
+│   ├── Max_Mustermann_KZL_2024.pdf
+│   ├── John_Doe_PZL_2024.pdf
 │   └── ...
 ```
 
@@ -95,10 +93,10 @@ Create a new `.typ` file:
   event-name: "Pfingstzeltlager 2024",
   start-date: "17.05.2024",
   end-date: "17.05.2024",
-  student-name: "Sarah Kamuf",
-  student-class: "Js2f",
-  teacher-name: "Herr Vollmer",
-  school-name: "Gymnasium Malsch",
+  student-name: "Anna Beispiel",
+  student-class: "10b",
+  teacher-name: "Frau Müller",
+  school-name: "Mustergymnasium",
 )
 ```
 
@@ -125,7 +123,7 @@ The CSV file should have these columns:
 4. Enddatum der Freistellung (end date in DD.MM.YYYY format)
 5. Vorname Nachname (student full name)
 6. Nachname (last name - not used)
-7. Nachname des Lehrers (teacher name with title, e.g., "Herr Vollmer")
+7. Nachname des Lehrers (teacher name with title, e.g., "Frau Müller")
 8. Name der Schule (school name)
 9. Mailadresse (email - not used)
 10. Klasse (class/grade)
@@ -178,9 +176,9 @@ The generated letters follow the DIN-5008-B format with:
 ```
 [DLRG-Jugend St. Leon Header with Logo]
 
-Unterrichtsbefreiung für Sarah Kamuf                    23.02.26
+Unterrichtsbefreiung für Anna Beispiel                    23.02.26
 
-Sehr geehrter Herr Vollmer,
+Sehr geehrte Frau Müller,
 
 im Rahmen der Teilnahme an unserer diesjährigen Veranstaltung:
 
@@ -188,7 +186,7 @@ im Rahmen der Teilnahme an unserer diesjährigen Veranstaltung:
 
 vom 17.05.24 bis 17.05.24
 
-bitte ich Sie, Sarah Kamuf (Klasse: Js2f), von dem Unterricht zu befreien.
+bitte ich Sie, Anna Beispiel (Klasse: 10b), von dem Unterricht zu befreien.
 Ich beziehe mich hier auf § 4 Abs. 1 und Abs. 3 Nr. 6 SchulBesV BW.
 
 Bei sämtlichen Fragen stehe ich gerne zur Verfügung.
