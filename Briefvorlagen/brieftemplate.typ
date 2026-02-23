@@ -199,26 +199,57 @@
 // # Helper functions #
 // ####################
 
-/// Creates a simple header with a name, an address and extra information.
+/// Creates a simple header with a name, an address, extra information, and optional logo.
 ///
 /// - name (content, none): Name of the sender
 /// - address (content, none): Address of the sender
 /// - extra (content, none): Extra information about the sender
-#let header-simple(name, address, extra: none) = {
+/// - logo (content, none): Logo image to display on the left side (fixed width: 40mm, aspect ratio preserved)
+#let header-simple(name, address, extra: none, logo: none) = {
   set text(size: 10pt)
 
-  if name != none {
-    strong(name)
-    linebreak()
-  }
+  if logo != none {
+    // Two-column layout with logo on left
+    grid(
+      columns: (auto, 1fr),
+      column-gutter: 10mm,
+      align: (left + top, right + bottom),
+      
+      // Left column: Logo with fixed width constraint
+      box(width: 40mm, logo),
+      
+      // Right column: Text content
+      {
+        if name != none {
+          strong(name)
+          linebreak()
+        }
 
-  if address != none {
-    address
-    linebreak()
-  }
+        if address != none {
+          address
+          linebreak()
+        }
 
-  if extra != none {
-    extra
+        if extra != none {
+          extra
+        }
+      }
+    )
+  } else {
+    // Original single-column layout (no logo) - backwards compatible
+    if name != none {
+      strong(name)
+      linebreak()
+    }
+
+    if address != none {
+      address
+      linebreak()
+    }
+
+    if extra != none {
+      extra
+    }
   }
 }
 
@@ -383,6 +414,12 @@
 ///
 /// - sender (dictionary): The sender that will be displayed below the header on the left.
 ///
+///   The dictionary can contain the following fields:
+///   - name (string, none): Name of the sender
+///   - address (string, none): Address of the sender
+///   - extra (content, none): Extra information about the sender
+///   - logo (content, none): Logo image to display in header (fixed width: 40mm, aspect ratio preserved)
+///
 ///   The name and address fields must be strings (or none).
 ///
 /// - recipient (content, none): The recipient that will be displayed below the annotations.
@@ -492,6 +529,7 @@
           sender.address.split(", ").join(linebreak())
         },
         extra: sender.at("extra", default: none),
+        logo: sender.at("logo", default: none),
       )),
     )
   }

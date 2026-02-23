@@ -7,7 +7,7 @@
   sender: (
     name: "Anja Ahlsen",
     address: "An der Autobahn 58, 68789 St. Leon-Rot",
-    logo: image("../resources/Jugendlogo-transparent.jpeg", alt: "DLRG-Jugend St. Leon", fit: "cover"),
+    logo: image("../resources/Jugendlogo-transparent.jpeg", alt: "DLRG-Jugend St. Leon"),
     extra: [
       Ressortleiter*in Beispiel\
       E-Mail: #link("mailto:jugend@st-leon.dlrg.de")[jugend\@st-leon.dlrg.de]\
